@@ -1,0 +1,11 @@
+
+._container_cell{
+   width: 700px;
+   aspect-ratio: 1;
+}
+
+._cell{
+   border: 1px solid;
+   width: 70px;
+}
+
